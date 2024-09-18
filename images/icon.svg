@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFEBEE" />
+      <stop offset="100%" style="stop-color:#FFCDD2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="128" height="128" rx="20" ry="20" fill="url(#bgGradient)" />
+
+  <!-- Letter D -->
+  <text x="64" y="90" font-family="Arial, sans-serif" font-size="80" font-weight="bold" text-anchor="middle" fill="#9E4747">D</text>
+
+  <!-- Sakura Petal -->
+  <path d="M 100 28 C 110 18, 116 28, 110 34 C 116 40, 110 50, 100 40 C 90 50, 84 40, 90 34 C 84 28, 90 18, 100 28 Z" fill="#F48FB1" />
+</svg>
