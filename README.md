@@ -2,6 +2,16 @@
 
 ![Modern Sakura Theme Icon](./images/icon.png)
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/obhakalgimdchnloomkmcikodkbodphp?label=Chrome%20Web%20Store&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/obhakalgimdchnloomkmcikodkbodphp?label=Users&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/obhakalgimdchnloomkmcikodkbodphp?label=Rating&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
+[![Chrome Web Store Rating Count](https://img.shields.io/chrome-web-store/rating-count/obhakalgimdchnloomkmcikodkbodphp?label=Rating%20Count&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
+[![Chrome Web Store Price](https://img.shields.io/chrome-web-store/price/obhakalgimdchnloomkmcikodkbodphp?label=Price&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
+[![Chrome Web Store Price Currency](https://img.shields.io/chrome-web-store/price-currency/obhakalgimdchnloomkmcikodkbodphp?label=Price%20Currency&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
+[![Chrome Web Store Last Updated](https://img.shields.io/chrome-web-store/last-updated/obhakalgimdchnloomkmcikodkbodphp?label=Last%20Updated&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
+
+[![GitHub License](https://img.shields.io/github/license/DorPascal/modern-sakura-theme?label=License&logo=github&style=flat-square)](LICENSE)
+
 ## Description
 
 Transform your browsing experience with the elegant and soothing Modern Sakura Theme for Google Chrome. Inspired by the delicate beauty of cherry blossoms, this theme brings a touch of Japanese aesthetics to your browser.
