@@ -6,11 +6,7 @@
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/obhakalgimdchnloomkmcikodkbodphp?label=Users&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
 [![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/obhakalgimdchnloomkmcikodkbodphp?label=Rating&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
 [![Chrome Web Store Rating Count](https://img.shields.io/chrome-web-store/rating-count/obhakalgimdchnloomkmcikodkbodphp?label=Rating%20Count&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
-[![Chrome Web Store Price](https://img.shields.io/chrome-web-store/price/obhakalgimdchnloomkmcikodkbodphp?label=Price&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
-[![Chrome Web Store Price Currency](https://img.shields.io/chrome-web-store/price-currency/obhakalgimdchnloomkmcikodkbodphp?label=Price%20Currency&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
-[![Chrome Web Store Last Updated](https://img.shields.io/chrome-web-store/last-updated/obhakalgimdchnloomkmcikodkbodphp?label=Last%20Updated&logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/modern-sakura-theme/obhakalgimdchnloomkmcikodkbodphp)
-
-[![GitHub License](https://img.shields.io/github/license/DorPascal/modern-sakura-theme?label=License&logo=github&style=flat-square)](LICENSE)
+[![GitHub](https://img.shields.io/github/license/Dor-sketch/chrome-sakura-theme?label=License&logo=github&style=flat-square)](https://github.com/Dor-sketch/chrome-sakura-theme/blob/main/LICENSE)
 
 ## Description
 
